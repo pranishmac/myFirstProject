@@ -2,9 +2,9 @@ public class MyJava
 {
     public static void main(String[] args)
     {
-        System.out.println("hello world");
-        System.out.println("hi there");
-        System.out.println("my name is Pranish");
+        for(int loop=1;loop<=10;loop++){
+            System.out.println(loop);
+        }
     }
 
 }
